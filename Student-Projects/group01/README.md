@@ -8,7 +8,7 @@ Tweetelligence
 - 
 - 
 - 
-- 
+- Shayan Eskandari
 
 ## 🎯 Project Objective
 The goal of this project is to analyze Twitter users’ sentiments toward the iPhone 17 by examining their tweets. This analysis aims to understand public opinion and emotional responses related to the product.
